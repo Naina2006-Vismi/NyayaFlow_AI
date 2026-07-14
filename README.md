@@ -223,8 +223,4 @@ python3 -m pytest tests/test_demo_api.py
 
 ## Team
 
-Built by [Your Name] as part of Kaggle's 5-Day AI Agents: Intensive Vibe Coding Course with Google (July 2026).
-
-## License
-
-MIT License — see LICENSE file for details.
+Built by Naina Vismi as part of Bharath Hackathon and Kaggle's 5-Day AI Agents: Intensive Vibe Coding Course with Google (July 2026).
